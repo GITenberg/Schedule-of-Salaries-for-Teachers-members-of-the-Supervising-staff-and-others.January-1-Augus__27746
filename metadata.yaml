@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32883'
     url: http://www.gutenberg.org/2009/agents/32883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27746#Schedule-of-Salaries-for-Teachers-members-of-the-Supervising-staff-and-others.January-1-Augus_
 gutenberg_issued: '2009-01-08'
 gutenberg_type: Text
 identifiers:
