@@ -1,0 +1,26 @@
+_repo: Schedule-of-Salaries-for-Teachers-members-of-the-Supervising-staff-and-others.January-1-Augus__27746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boston (Mass.). School  Committee
+    gutenberg_agent_id: '32883'
+    url: http://www.gutenberg.org/2009/agents/32883
+description: ''
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers -- Salaries, etc. -- Massachusetts -- Boston'
+- !lcc 'LB'
+title: 'Schedule of Salaries for Teachers, members of the Supervising staff and others.
+
+  January 1-August 31, 1920, inclusive'
+url: http://www.gutenberg.org/ebooks/27746
